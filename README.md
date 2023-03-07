@@ -1,4 +1,4 @@
 Bunyamin Ergen's Github Page
 
 ---
-bunyaminergen.github.io
+<!-- bunyaminergen.github.io -->
